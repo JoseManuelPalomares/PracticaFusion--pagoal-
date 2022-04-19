@@ -7,7 +7,7 @@ public class Principal {
 
 		
 		
-		
+		Perro perro1 = new Perro ("Manolo", "Labrador");
 		
 	}
 
