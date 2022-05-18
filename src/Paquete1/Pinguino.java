@@ -5,12 +5,9 @@ public class Pinguino extends Mascota {
 	String noVolador; 
 	boolean grazna; 
 
-	
-	
 
 
-
-	public Pinguino(String nombre, boolean volador,  boolean grazna) {
+	public Pinguino(String nombre, String noVolador,  boolean grazna) {
 		super(nombre);
 		this.noVolador = noVolador;
 		this.grazna = grazna;
