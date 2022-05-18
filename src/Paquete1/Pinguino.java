@@ -3,6 +3,7 @@ package Paquete1;
 public class Pinguino extends Mascota {
 	
 	String noVolador; 
+	boolean grazna;
 
 	
 	
